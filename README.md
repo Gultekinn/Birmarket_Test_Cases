@@ -105,7 +105,6 @@
 | **Fokus** | Manual QA Testing |
 | **Email** | [gultkinzizova93@gmail.com](mailto:gultkinzizova93@gmail.com) |
 | **LinkedIn** | [Gültekin Əzizova](https://www.linkedin.com/in/g%C3%BClt%C9%99kin-%C9%99zizova-a71499272/) |
-| **GitHub** | [Gultekinn](https://github.com/Gultekinn) |
 
 ---
 
