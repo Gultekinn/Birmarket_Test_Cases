@@ -63,8 +63,7 @@
 |---|---|
 | Google Sheets | Test case dokumentasiyası |
 | Chrome DevTools | Mobil/tablet emulyasiya, network testi |
-| Jira (mindset) | Bug tracking metodologiyası |
-| Browser (Chrome v124+) | Test mühiti |
+| Browser (Chrome v124+) | Test environment |
 
 ---
 
